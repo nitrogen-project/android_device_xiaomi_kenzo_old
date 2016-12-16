@@ -27,7 +27,7 @@ PRODUCT_COPY_FILES += \
 
 # Camero
  PRODUCT_PACKAGES += \
-     Camero
+     Camera2
 
 # Input
 PRODUCT_COPY_FILES += \
